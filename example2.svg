@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;stroke-width:6px;}</style>
+<g id="bedreigd_worden">
+  <rect x="50" y="50" width="500" height="500" fill="#0c905e"/>
+  <path class="cls-1" d="M255.68,233.35c1.27,2,18.57,27.62,50.52,27.83,34,.22,51.81-28.6,52.58-29.89-1.91-2.44-21-25.9-53.09-24.75C274.85,207.65,257.69,230.57,255.68,233.35Z"/>
+  <circle class="cls-1" cx="307.23" cy="233.84" r="27.34" transform="translate(-53.21 372.25) rotate(-58.28)"/>
+  <path class="cls-1" d="M259.28,308.89c-27.86-19.22-43.6-50.89-40.35-82.75,3.62-35.52,29.28-56,35.29-60.5,4.13-3.1,37.8-27.5,79.55-14.68,45.84,14.08,58.63,59.91,59.36,62.72,8.9,34.17-3.62,71.19-31.92,94.65Q376,395.42,390.89,482.5L226.8,481.38Q243,395.15,259.28,308.89Z"/>
+</g>
+</defs>
+<style>
+.title { font: 80px sans-serif; fill: #000000; }
+.subtitle { font: 40px sans-serif; fill: #000000; }
+</style>
+<rect x="0" y="0" width="1600" height="900" fill="#f3faff" stroke="#000000" />
+<text x="100" y="100" class="title">Example 2</text>
+<text x="100" y="180" class="subtitle">This example demonstrates defs and use tags.</text>
+<use x="50" y="200" href="#bedreigd_worden" />
+<use x="900" y="200" href="#bedreigd_worden" />
+</svg>
